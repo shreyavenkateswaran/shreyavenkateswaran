@@ -6,7 +6,7 @@
 [🔗 LinkedIn](https://www.linkedin.com/in/shreya-venkateswaran-232a62207/) • ✉️ [Email](shreyavenkateswaran975@gmail.com)
 
 ## 🧑‍💼 About Me
-I’m a student at the University of Maryland & Data Science intern at JPMorgan Chase with a passion for machine learning, neuroscience, and quantitative finance. I build data‑driven solutions and love turning messy real‑world data into actionable insights.
+I’m a student at the University of Maryland & Data Science intern at JPMorgan Chase with a passion for machine learning, and quantitative finance. I build data‑driven solutions and love turning messy real‑world data into actionable insights.
 
 ## 📌 Pinned Projects
 
