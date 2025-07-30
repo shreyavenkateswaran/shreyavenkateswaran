@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi there, I'm Shreya Venkateswaran 👋
 
-<!--
-**shreyavenkateswaran/shreyavenkateswaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[🔗 LinkedIn](https://www.linkedin.com/in/shreya-venkateswaran-232a62207/) • ✉️ [Email](shreyavenkateswaran975@gmail.com)
 
-Here are some ideas to get you started:
+## 🧑‍💼 About Me
+I’m a student at the University of Maryland & Data Science intern at JPMorgan Chase with a passion for machine learning, neuroscience, and quantitative finance. I build data‑driven solutions and love turning messy real‑world data into actionable insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Pinned Projects
+
+### 1. Fall AI Studio Project  
+**Repo:** [ai-studio-fall-project]
+
+
+## 🚀 Other Projects
+
+
+## 📂 Sample Data & Notebooks
+
+- **Sample Dataset** for AI Studio Project:
+
+
+## ⚙️ Installation & Setup
+
+1. **Clone** the repo 
