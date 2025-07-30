@@ -1,3 +1,6 @@
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/f658e8b9-ea3f-40dc-bc72-fef40db91a00" />
+
+
 ## Hi there, I'm Shreya Venkateswaran 👋
 
 [🔗 LinkedIn](https://www.linkedin.com/in/shreya-venkateswaran-232a62207/) • ✉️ [Email](shreyavenkateswaran975@gmail.com)
