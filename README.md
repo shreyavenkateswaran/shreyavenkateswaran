@@ -15,7 +15,17 @@ I’m a student at the University of Maryland & Data Science intern at JPMorgan 
 
 
 ## 🚀 Other Projects
+- **lane-detection**  
+  [laneDectection](https://github.com/shreyavenkateswaran/laneDectection)  
+  Real‑time lane line detection using OpenCV and Hough transforms for autonomous driving pipelines.
 
+- **signature-project**  
+  [signatureProject](https://github.com/shreyavenkateswaran/signatureProject)  
+  Machine learning–based signature verification system leveraging feature extraction and SVM classifiers.
+
+- **face-tect**  
+  [FaceTect](https://github.com/shreyavenkateswaran/FaceTect)  
+  Face detection and recognition toolkit using Haar cascades and deep learning embeddings.
 
 ## 📂 Sample Data & Notebooks
 
